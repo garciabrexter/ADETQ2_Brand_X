@@ -1,0 +1,30 @@
+﻿@model IEnumerable<ADETQ2_Brand_X.Models.list>
+
+
+<div class="text-center">
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Student Name</th>
+                <th>Student No.</th>
+                <th>Age</th>
+                <th>Address</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @if (Model != null)
+            {
+                foreach (ADETQ2_Brand_X.Models.list r in Model)
+                {
+                    <tr>
+                        <td>@r.studentname</td>
+                        <td>@r.studentno</td>
+                        <td>@r.age</td>
+                        <td>@r.address</td>
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>
+</div>
