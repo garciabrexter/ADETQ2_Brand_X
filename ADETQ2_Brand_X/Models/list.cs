@@ -5,11 +5,17 @@ using System.Linq;
 using System.Runtime.CompilerServices;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace ADETQ2_Brand_X.Models
 {
-    public class list 
+    public class list
     {
+        [Key]
+        public string studentinfo { get; set; }
+
+        [DataType(DataType.Text)]
+
         [Required(ErrorMessage = "Please Enter Your Name")]
         public string studentname { get; set; }
 
