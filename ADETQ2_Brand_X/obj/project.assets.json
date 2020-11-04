@@ -8775,19 +8775,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {}
+    "C:\\Users\\I am a Lutheran\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\ADETQ2_Brand_X\\ADETQ2_Brand_X\\ADETQ2_Brand_X.csproj",
-      "projectName": "ADETQ2_Brand_X",
-      "projectPath": "C:\\Users\\User\\source\\repos\\ADETQ2_Brand_X\\ADETQ2_Brand_X\\ADETQ2_Brand_X.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\ADETQ2_Brand_X\\ADETQ2_Brand_X\\obj\\",
+      "projectUniqueName": "C:\\Users\\I am a Lutheran\\Source\\Repos\\ADETQ2_Garcia_Brexter\\ADETQ2_Brand_X\\ADETQ2_Team_IP.csproj",
+      "projectName": "ADETQ2_Team_IP",
+      "projectPath": "C:\\Users\\I am a Lutheran\\Source\\Repos\\ADETQ2_Garcia_Brexter\\ADETQ2_Brand_X\\ADETQ2_Team_IP.csproj",
+      "packagesPath": "C:\\Users\\I am a Lutheran\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\I am a Lutheran\\Source\\Repos\\ADETQ2_Garcia_Brexter\\ADETQ2_Brand_X\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\I am a Lutheran\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

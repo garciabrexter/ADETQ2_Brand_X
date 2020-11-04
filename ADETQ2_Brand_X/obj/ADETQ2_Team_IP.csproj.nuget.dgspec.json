@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\I am a Lutheran\\Source\\Repos\\ADETQ2_Garcia_Brexter\\ADETQ2_Brand_X\\ADETQ2_Brand_X.csproj": {}
+    "C:\\Users\\I am a Lutheran\\Source\\Repos\\ADETQ2_Garcia_Brexter\\ADETQ2_Brand_X\\ADETQ2_Team_IP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\I am a Lutheran\\Source\\Repos\\ADETQ2_Garcia_Brexter\\ADETQ2_Brand_X\\ADETQ2_Brand_X.csproj": {
+    "C:\\Users\\I am a Lutheran\\Source\\Repos\\ADETQ2_Garcia_Brexter\\ADETQ2_Brand_X\\ADETQ2_Team_IP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\I am a Lutheran\\Source\\Repos\\ADETQ2_Garcia_Brexter\\ADETQ2_Brand_X\\ADETQ2_Brand_X.csproj",
-        "projectName": "ADETQ2_Brand_X",
-        "projectPath": "C:\\Users\\I am a Lutheran\\Source\\Repos\\ADETQ2_Garcia_Brexter\\ADETQ2_Brand_X\\ADETQ2_Brand_X.csproj",
+        "projectUniqueName": "C:\\Users\\I am a Lutheran\\Source\\Repos\\ADETQ2_Garcia_Brexter\\ADETQ2_Brand_X\\ADETQ2_Team_IP.csproj",
+        "projectName": "ADETQ2_Team_IP",
+        "projectPath": "C:\\Users\\I am a Lutheran\\Source\\Repos\\ADETQ2_Garcia_Brexter\\ADETQ2_Brand_X\\ADETQ2_Team_IP.csproj",
         "packagesPath": "C:\\Users\\I am a Lutheran\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\I am a Lutheran\\Source\\Repos\\ADETQ2_Garcia_Brexter\\ADETQ2_Brand_X\\obj\\",
         "projectStyle": "PackageReference",
